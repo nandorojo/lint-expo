@@ -1,5 +1,5 @@
-# lint-expo
-🐠 A mini script that configures prettier and eslint for React/Expo projects.
+# 🐠 Lint Expo apps
+A mini script that configures prettier and eslint for React/Expo projects.
 
 ## `npx @nandorojo/lint-expo`
 
